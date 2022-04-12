@@ -11,6 +11,10 @@ module.exports = {
         },
         width: {
           '572': '35.75rem',
+          '492': '30.75rem',
+        },
+        height: {
+          '445': '27.8rem',
         },
         screens: {
           'md2': '992px',

@@ -102,8 +102,5 @@ export default {};
     padding-right: 0;
   }
 }
-.maxWidthContainer {
-  max-width: 1500px;
-  margin: auto;
-}
+
 </style>
