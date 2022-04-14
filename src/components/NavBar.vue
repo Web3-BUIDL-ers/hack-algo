@@ -42,6 +42,7 @@
             cursor-pointer
             rounded
           "
+          href="/connect-wallet"
         >
           Connect wallet</a
         >
@@ -94,6 +95,7 @@
             cursor-pointer
             rounded
           "
+          href="/connect-wallet"
         >
           Connect wallet</a
         >

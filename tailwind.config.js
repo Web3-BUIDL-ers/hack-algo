@@ -27,6 +27,7 @@ module.exports = {
           'hack-cyan': '#00F5F5',
           'hack-cyan-dark': '#0AB4B4',
           'hack-black': '#020204',
+          'hack-grey': '#909090',
           'scloudblue-dark': '#1C417E',
         },
       },
