@@ -1,5 +1,5 @@
 <template>
-  <section class="section pt-10 relative">
+  <section class="section pt-32 lg:pt-20 relative">
     <div class="maxWidthContainer">
     <div  class="w-full flex flex-col md2:flex-row">
       <div class="w-full md2:w-1/2 flex items-center justify-center columnOne">
