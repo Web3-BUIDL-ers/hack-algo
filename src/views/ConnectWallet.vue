@@ -1,5 +1,5 @@
 <template>
-  <section class="pt-48 md:pt-32 pb-16 md:pb-8 section h-screen flex items-center justify-center">
+  <section class="pt-32 md:pt-28 pb-16 md:pb-8 section  flex items-center justify-center">
     <div class="w-4/5 md:w-1/2 xl:w-1/3 bg-hack-grey rounded">
       <div @click="goHome()" class="flex items-center px-4 pt-2 cursor-pointer py-6 back">
         <img src="@/assets/svg/arrow-right.svg" alt="arrow-right" />
